@@ -5,9 +5,20 @@
 - **Other**: Labview, Matlab
 
 ## Education
-<ul>
-    <li>PhD, Photonics Engineering | Warsaw Univ. of Technology</li>
-</ul>
+<table>
+    <tr>
+        <th>PhD,</th>
+        <td>Photonics Engineering</td>
+        <td>|</td>
+        <td>Warsaw Univ. of Technology</td>
+    </tr>
+    <tr>
+        <th>MSc.,</th>
+        <td>Photonics Engineering</td>
+        <td>|</td>
+        <td>Warsaw Univ. of Technology</td>
+    </tr>
+</table>
 
 - PhD, Photonics Engineering | Warsaw Univ. of Technology  
 - Msc., Photonics Engineering | Warsaw Univ. of Techonlogy
