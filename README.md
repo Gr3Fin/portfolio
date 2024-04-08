@@ -9,7 +9,7 @@
 - Msc., Photonics Engineering | Warsaw Univ. of Techonlogy
 
 ## Work experience
-- Fluence sp z o.o. | Senior Physicist (laser systems developer specialist)
+- Fluence sp z o.o.      | Senior Physicist (laser systems developer specialist)
 - Astri Polska sp z o.o. | Optomechatronic specialist
 - Warsaw Univeristy of Technology (PhD) | R&D group member and project manager
 
@@ -18,6 +18,6 @@
 - Turtle crossing game
 - Pong game
 - Pomodoro technique
-- Spotify playlist
+- Spotify playlist  
 ### Data alnaysis
 - [Movies_analysis](https://public.tableau.com/app/profile/grzegorz.finke/viz/Movies_analisis/Moviesanalysis?publish=yes) | Tableau
