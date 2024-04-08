@@ -5,15 +5,15 @@
 - **Other**: Labview, Matlab
 
 ## Education
-- PhD, Photonics Engineering | Warsaw Univ. of Technology
-- Msc., Photonics Engineering | Warsaw Univ. of Techonlogy
+PhD, Photonics Engineering | Warsaw Univ. of Technology
+Msc., Photonics Engineering | Warsaw Univ. of Techonlogy
 
 ## Work experience
-- Fluence sp z o.o.
+- Fluence sp z o.o.  
   _Senior Physicist (laser systems developer specialist)_
-- Astri Polska sp z o.o.
+- Astri Polska sp z o.o.  
   _Optomechatronic specialist_
-- Warsaw Univeristy of Technology (PhD)
+- Warsaw Univeristy of Technology (PhD)  
   _R&D group member and project manager_
 
 ## Projects
