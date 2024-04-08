@@ -5,7 +5,7 @@
 - **Other**: Labview, Matlab
 
 ## Education
-PhD, Photonics Engineering | Warsaw Univ. of Technology
+PhD, Photonics Engineering | Warsaw Univ. of Technology  
 Msc., Photonics Engineering | Warsaw Univ. of Techonlogy
 
 ## Work experience
