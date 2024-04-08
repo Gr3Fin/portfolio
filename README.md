@@ -14,7 +14,7 @@
 - Warsaw Univeristy of Technology (PhD) | R&D group member and project manager
 
 ## Projects
-### Python
+### [Python](https://github.com/Gr3Fin/Python_projects.git)
 - Turtle crossing game
 - Pong game
 - Pomodoro technique
