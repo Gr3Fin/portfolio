@@ -5,8 +5,8 @@
 - **Other**: Labview, Matlab
 
 ## Education
-- PhD | Photonics Engineering | Warsaw Univ. of Technology (2017)
-- Msc. | Photonics Engineering | Warsaw Univ. of Techonlogy (2008)
+- PhD, Photonics Engineering | Warsaw Univ. of Technology
+- Msc., Photonics Engineering | Warsaw Univ. of Techonlogy
 
 ## Work experience
 - Fluence sp z o.o. | Senior Physicist (laser systems developer specialist)
