@@ -26,39 +26,49 @@
         <th>Data analist skill path</th>
         <td></td>
         <td>Udemy (March 2024)</td>
+        <td><a href="./assets/certificates/DA_certificate.pdf">DA certificate</a></td>
     </tr>
 </table>
 
-> Course description:
 > Comprehensive data analyst course encompassing Excel, SQL, and Python.
 > Throughout the duration of the course, I acquired a diverse set of skills and knowledge tailored to data analysis tasks.
+
 #### Excel:
-In this module I refined my skills by systematically organizing and manipulating data sets.  
+<p style="text-align:justify;">In this module I refined my skills by organizing and manipulating data sets.  
 I used data tools like: Pivot tables, Xlookup, Match, Filter, Sort, Data validation, Data import, Power query,  
-and different types of charts for analysed data visualisation: Pivot charts, Bar charts, Scatter Plots, Histograms, Map charts, etc.
+and different types of charts for analysed data visualisation: Pivot charts, Bar charts, Scatter Plots, Histograms, Map charts, etc.</p>
+
 #### SQL:
-In this part I  I delved into both fundamental and advanced concepts.  
-Starting with basic data operations like creating a table, retrieving data from a table etc., I covered more advanced topics like subqueries, Joins, data aggregation, and pattern matching, later on.
+<p style="text-align:justify;">In this part I delved into both fundamental and advanced concepts.
+Starting with basic data operations devoted to table and data organiation, 
+I covered more advanced topics like subqueries, joins, data aggregation, and pattern matching, later on.</p>
+
 #### Python
-This segment of the course provided a comprehensive knowledge from data acquisition to advanced analysis techniques.  
-I learned to extract, clean, and preprocess data using Python libraries. This included tasks such as data exploration, univariate and bivariate analysis, outlier detection, missing value imputation, variable transformation, and correlation analysis.  
-I also learned the basics of linear and multiple linear regression models for predicting meterics. How to interpret the results based on factors like RSE or R2.
-Moreover, ......
+<p style="text-align:justify;">This segment of the course provided a comprehensive knowledge from data acquisition to advanced analysis techniques.<br/> 
+I learned to extract, clean, and preprocess data using Python libraries. This included tasks such as data exploration, univariate and bivariate analysis, outlier detection, missing value imputation, variable transformation, and correlation analysis.<br/> 
+I also learned:
+    <ul>
+        <li>The basics of linear and multiple linear regression models for predicting meterics (ordinary least squares method). </li>
+        <li>How to assess model accuracy with factors like RSE, R2, or F-statistic.</li>  
+        <li>Model preparation with test-trains split.</li>  
+        <li>Other linear regression models, i.e. Subset selection technique and Shrinkage method (Ridge and Lasso).</li>  
+    </ul>
+</p>
 
-
-[DA_certificate](./assets/certificates/DA_certificate.pdf)
 ---
 <table>
     <tr>
         <th>DA marathon with Tableau</th>
         <td></td>
         <td>GoIT (March 2024)</td>
+        <td><a href="#DA">Tableau dashboard</a></td>
     </tr>
 </table>
 
-[Tableau dashboard](#Data analysis)  
-
-> description
+> 4-day marathon devoted to data analysis with Tableau.
+<p style="text-align:justify;">Throughout the course, I acquired a comprehensive understanding of Tableau, encompassing its fundamental principles, organizational structure, and practical applications. I delved into various aspects, including its functionalities for crafting compelling visualizations, constructing dashboards, and leveraging essential tools such as filters, metrics, and calculation fields.<bl/>
+I honed my skills in navigating Tableau's interface, comprehending how data is organized and processed within the software. TBC...
+</p>
 
 ## Work experience
 <dl>
@@ -77,5 +87,5 @@ Moreover, ......
 - Pomodoro technique
 - Spotify playlist
   
-### Data alnaysis
+### <a id="DA">Data analisis</a>
 - [Movies_analysis](https://public.tableau.com/app/profile/grzegorz.finke/viz/Movies_analisis/Moviesanalysis?publish=yes) | Tableau
