@@ -1,6 +1,6 @@
 # Optomechatronic specialist &rarr; Data analyst
 
-#### Technical skills: 
+#### Technical Skills: 
 - **Data analysis**: Python, SQL, Tableau, Excel
 - **Other**: Labview, Matlab
 
@@ -20,7 +20,7 @@
     </tr>
 </table>
 
-## Courses & certificates
+## Courses & Certificates
 <table>
     <tr>
         <th>Data analist skill path</th>
@@ -68,7 +68,7 @@ I also learned:
 <p style="text-align:justify;">Throughout the course, I acquired a comprehensive understanding of Tableau, encompassing its fundamental principles, organizational structure, and practical applications. I delved into various aspects, including its functionalities for crafting compelling visualizations, constructing dashboards, and leveraging essential tools such as filters, metrics, calculation fields, and custom formulas utilization.
 </p>
 
-## Work experience 
+## Work Experience 
 [CV_PL](./assets/CV/Grzegorz_Finke_CV.pdf), [CV_ENG](./assets/CV/Grzegorz_Finke_CV_eng.pdf)
 <dl>
     <dt>Fluence sp. z o.o.</dt>
@@ -80,13 +80,13 @@ I also learned:
 </dl>
 
 ## Projects
-### Python 
-- Turtle crossing game
+### [Python](https://github.com/Gr3Fin/Python_projects.git)
 - Pong game
 - Pomodoro technique
+- Quiz game
 - Spotify playlist
+- Snake game
+- Turtle crossing game
   
-[python repo](https://github.com/Gr3Fin/Python_projects.git)
-
 ### <a id="DA">Data analisis</a>
 - [Movies_analysis](https://public.tableau.com/app/profile/grzegorz.finke/viz/Movies_analisis/Moviesanalysis?publish=yes) | Tableau
