@@ -59,18 +59,17 @@ I also learned:
 <table>
     <tr>
         <th>DA marathon with Tableau</th>
-        <td></td>
         <td>GoIT (March 2024)</td>
         <td><a href="#DA">Tableau dashboard</a></td>
     </tr>
 </table>
 
 > 4-day marathon devoted to data analysis with Tableau.
-<p style="text-align:justify;">Throughout the course, I acquired a comprehensive understanding of Tableau, encompassing its fundamental principles, organizational structure, and practical applications. I delved into various aspects, including its functionalities for crafting compelling visualizations, constructing dashboards, and leveraging essential tools such as filters, metrics, and calculation fields.<bl/>
-I honed my skills in navigating Tableau's interface, comprehending how data is organized and processed within the software. TBC...
+<p style="text-align:justify;">Throughout the course, I acquired a comprehensive understanding of Tableau, encompassing its fundamental principles, organizational structure, and practical applications. I delved into various aspects, including its functionalities for crafting compelling visualizations, constructing dashboards, and leveraging essential tools such as filters, metrics, calculation fields, and custom formulas utilization.
 </p>
 
-## Work experience
+## Work experience 
+[CV_PL](./assets/CV/Grzegorz_Finke_CV.pdf), [CV_ENG](./assets/CV/Grzegorz_Finke_CV_eng.pdf)
 <dl>
     <dt>Fluence sp. z o.o.</dt>
     <dd>Senior Physicist (laser systems developer specialist)</dd>
@@ -81,11 +80,13 @@ I honed my skills in navigating Tableau's interface, comprehending how data is o
 </dl>
 
 ## Projects
-### [Python](https://github.com/Gr3Fin/Python_projects.git)
+### Python 
 - Turtle crossing game
 - Pong game
 - Pomodoro technique
 - Spotify playlist
   
+[python repo](https://github.com/Gr3Fin/Python_projects.git)
+
 ### <a id="DA">Data analisis</a>
 - [Movies_analysis](https://public.tableau.com/app/profile/grzegorz.finke/viz/Movies_analisis/Moviesanalysis?publish=yes) | Tableau
