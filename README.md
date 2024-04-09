@@ -60,7 +60,7 @@ I also learned:
     <tr>
         <th>DA marathon with Tableau</th>
         <td>GoIT (March 2024)</td>
-        <td><a href="#DA">Tableau dashboard</a></td>
+        <td><a href="https://public.tableau.com/app/profile/grzegorz.finke/viz/Movies_analisis/Moviesanalysis?publish=yes">Tableau dashboard</a></td>
     </tr>
 </table>
 
@@ -88,6 +88,5 @@ I also learned:
 - Snake game
 - Turtle crossing game
   
-<h3><a id="DA">Data analysis</a></h3>
-
+### Data Analysis
 - [Movies_analysis](https://public.tableau.com/app/profile/grzegorz.finke/viz/Movies_analisis/Moviesanalysis?publish=yes) | Tableau
