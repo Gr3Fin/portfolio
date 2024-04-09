@@ -55,7 +55,6 @@ I also learned:
     </ul>
 </p>
 
----
 <table>
     <tr>
         <th>DA marathon with Tableau</th>
@@ -80,7 +79,8 @@ I also learned:
 </dl>
 
 ## Projects
-### [Python](https://github.com/Gr3Fin/Python_projects.git)
+<h3>Python <span><a style="font-size:smaller;" href="https://github.com/Gr3Fin/Python_projects.git">(repository)</a></span></h3>
+
 - Pong game
 - Pomodoro technique
 - Quiz game
