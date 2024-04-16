@@ -91,4 +91,4 @@ I also learned:
 ### Data Analysis
 - [Movies_analysis](https://public.tableau.com/app/profile/grzegorz.finke/viz/Movies_analisis/Moviesanalysis?publish=yes) | Tableau
 
-![Oscar movies analysis](/assets/images/Tableau_movies_s.jpg)
+  ![Oscar movies analysis](/assets/images/Tableau_movies_s.jpg)
