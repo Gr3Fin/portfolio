@@ -1,7 +1,7 @@
 #repo{
     /* border: 1px solid; */
     tr{height: min-content;}
-    th{border-bottom: 1px solid; text-align: left;}
+    th{border-bottom: 1px solid; text-align: left; font-size: small;}
     td{border-bottom: 1px solid; text-align: justify; font-size: small;}
     th a{color: black;}
 }
