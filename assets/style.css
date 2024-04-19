@@ -2,7 +2,7 @@
     tr{height: min-content;}
 
     th{border-bottom: 1px solid; 
-        width: 200px; 
+        width: 150px; 
         text-align: left; 
         font-size: small;}
 
@@ -13,4 +13,4 @@
     th a{color: black;}
 }
 
-div{display: table-cell; vertical-align: middle; border: 1px solid;}
+div{display: table-cell; vertical-align: middle;}
