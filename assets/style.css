@@ -1,7 +1,16 @@
 #repo{
-    /* border: 1px solid; */
     tr{height: min-content;}
-    th{border-bottom: 1px solid; text-align: left;}
-    td{border-bottom: 1px solid; text-align: justify; font-size: small;}
+
+    th{border-bottom: 1px solid; 
+        width: 150px; 
+        text-align: left; 
+        font-size: small;}
+
+    td{border-bottom: 1px solid; 
+        text-align: justify; 
+        font-size: small;}
+
     th a{color: black;}
 }
+
+div{display: table-cell; vertical-align: middle;}
