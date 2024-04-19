@@ -25,7 +25,10 @@
         
     th a{color: black;}
 
-    img{display: block;
+    th img{padding-left: 20px; 
+        vertical-align: middle;}
+
+    td img{display: block;
         width: 50%;
         margin: auto;}
 }
