@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 #repo{
     tr{height: min-content;}
 
