@@ -32,3 +32,8 @@
         width: 50%;
         margin: auto;}
 }
+
+.CC{
+    td{font-size: 12px;
+        text-align: justify}
+}
