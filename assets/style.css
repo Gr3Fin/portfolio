@@ -1,39 +1,46 @@
 #repo{
     tr{height: min-content;}
 
-    th{border-bottom: 1px solid; 
+    th{
+        border-bottom: 1px solid;
         width: 150px; 
         text-align: left; 
         font-size: small;}
 
-    td{border-bottom: 1px solid; 
+    td{
+        border-bottom: 1px solid;
         text-align: justify; 
-        font-size: small;}
+        font-size: 0.9em;}
         
     th a{color: black;}
 }
 
 #DA{
-    th{border-bottom: 1px solid; 
-        width: 150px; 
+    th{
+        width: 100px; 
         text-align: left; 
-        font-size: small;}
+        font-size: 0.9em;}
 
-    td{border-bottom: 1px solid; 
+    td{
         text-align: justify; 
-        font-size: small;}
+        font-size: 0.9em;}
         
     th a{color: black;}
 
-    th img{padding-left: 20px; 
-        vertical-align: middle;}
-
     td img{display: block;
-        width: 50%;
         margin: auto;}
 }
 
 .CC{
-    td{font-size: 12px;
-        text-align: justify}
+    tr{width: 100%;
+        text-align: justify;
+    }
+
+    th a{color: black;
+        font-size: 0.9em;}
+
+    td{font-size: 0.85em;
+        text-align: left;
+        width: 25%}
+    
 }
