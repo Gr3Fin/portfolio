@@ -29,24 +29,30 @@
     td{font-size: 0.75rem; text-align: left; width: 25%}
 }
 
-.Chip_box{
-    display: flex;
+.Chip_box{display: flex;
     /* flex-wrap: wrap; */
     /* column-gap: 15px; */
     /* row-gap: 15px; */
-    padding-left: 12px;
-    padding-bottom: 10px;
-    font-size: 0.8rem;
+        padding-left: 12px;
+        padding-bottom: 10px;
+        font-size: 0.8rem;
     /* border-bottom: 1px solid; */
 
-    div {min-width: 30%;}
+    div {min-width: 30%;
+        text-align: justify; 
+        text-justify: inter-word;}
+
+    div a{color: black;
+        display: inline-block;
+        text-align: left;}
 }
 
 .Chip_label{
-    height: 1.2rem;
+    /* height: 1.2rem; */
     display: inline-flex;
     box-sizing: border-box;
-    align-items: center;    
+    align-items: center;
+    text-align: center;    
     border-radius: 6px;
     background-color: #e0e0e0;
     margin-bottom: 4px;
