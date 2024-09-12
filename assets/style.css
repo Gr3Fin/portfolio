@@ -21,12 +21,29 @@
     td img{display: block; margin: auto;}
 }
 
+
+.quote{
+    font-style: italic; 
+    border-left: 2px solid lightgray;
+    margin: 0px;
+    padding-left: 10px;
+}
+
+.more {
+    font-size: 0.75rem; 
+    text-align: right;
+    font-style: italic; 
+}
+
+
+
 .CC{
     tr{width: 100%; text-align: justify;}
 
-    th a{color: black; font-size: 0.8rem;}
+    th{color: black; font-size: 0.8rem;}
 
     td{font-size: 0.75rem; text-align: left; width: 25%}
+
 }
 
 .Chip_box{display: flex;
