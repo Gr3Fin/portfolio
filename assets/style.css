@@ -46,7 +46,7 @@
 
 }
 
-.Chip_box{display: flex;
+.Skills{display: flex;
     /* flex-wrap: wrap; */
     /* column-gap: 15px; */
     /* row-gap: 15px; */
@@ -56,14 +56,21 @@
         font-size: 0.8rem;
     /* border-bottom: 1px solid; */
 
-    div {min-width: 30%;
-        text-align: justify; 
-        text-justify: inter-word;
+    div{min-width: 30%;
         padding-left: 12px;}
 
     div a{color: black;
         display: inline-block;
-        text-align: left;}
+        text-align: left;
+        /* border-right: 1px solid black; */} 
+}
+
+.Chip_box{
+    text-align: justify; 
+    text-align-last: justify;
+    /* text-justify: inter-word; */
+    /* padding-left: 12px; */
+    /* border-right: 1px solid black; */
 }
 
 .Chip_label{
