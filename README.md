@@ -1,7 +1,5 @@
 # Optomechatronic Specialist &rarr; Data Analyst
 
-I am a skilled engineer with a background in optomechanics, with a keen interest in **data analysis**. Over the past 12 years, I have successfully tackled various engineering challenges, leveraging my expertise in optical and 3D design, as well as programming languages such as **LabView and Matlab**. Throughout my career, I have extensively analyzed real-world data sets using tools such as **Excel or Matlab**.
+I am a skilled engineer with 15 years of experience in optomechanics, specializing in optical and 3D design, as well as programming languages like **LabView** and **Matlab**. Throughout my career, I have tackled complex engineering challenges and analyzed real-world datasets using tools such as **Excel** and **Matlab**.
 
-To further enhance my capabilities, I am actively expanding my skill set to include more efficient tools such as **SQL, Python, and Tableau**. I am committed to continuous learning and professional development in the field of data analysis.
-
-In my portfolio you can find my progress and current experience in the field of data analysis.
+With a strong interest in **Data Analysis** and **Data Science**, I am actively expanding my skill set with **SQL**, **Python**, and **Tableau** to further enhance my ability to derive valuable insights from data. Committed to continuous learning and professional development, I invite you to explore my portfolio, where you can track my progress and experience in Data Science.
